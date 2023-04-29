@@ -1,0 +1,63 @@
+/**
+ * Boost Source: https://arcboosts.com/boosts/127/github-dark-dimmed-theme-for-leetcode-problem-page
+ */
+
+.dark {
+    background-color: #22272e;
+}
+
+.scrollbar {
+    background-color: #22272e;
+}
+
+#__next>div>div>div>nav {
+    background-color: #22272e;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div.min-h-0.flex-grow>div>div.flex.h-full.w-full.overflow-y-auto.rounded-b>div {
+    background-color: #22272e;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div:nth-child(3)>div>div>div>div {
+    background-color: #22272e;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div.min-h-0.flex-grow>div>div.flex.h-full.w-full.overflow-y-auto.rounded-b>div {
+    background-color: #22272e;
+}
+
+#editor>div.bg-layer-2.dark\:bg-dark-layer-2.border-fill-3.dark\:border-dark-fill-3.flex.h-9.items-center.rounded-t.border-b.pr-4 {
+    background-color: #2c323b;
+}
+
+#editor>div.flex.flex-1.flex-col.overflow-hidden>div.flex-1.overflow-hidden>div>div>div.overflow-guard>div.monaco-scrollable-element.editor-scrollable.vs-dark.mac>div.lines-content.monaco-editor-background {
+    background-color: #22272e;
+}
+
+.glyph-margin {
+    background-color: #22272e;
+}
+
+.line-numbers {
+    background-color: #22272e;
+}
+
+.monaco-editor .margin {
+    background-color: #22272e;
+}
+
+#editor>div.flex.flex-1.flex-col.overflow-hidden>div.flex-1.overflow-hidden>div>div>div.overflow-guard>div:nth-child(1) {
+    background-color: #22272e;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div.min-h-0.flex-grow>div>div:nth-child(1)>div {
+    background-color: #2c323b;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div.min-h-0.flex-grow>div>div.flex.h-full.w-full.overflow-y-auto.rounded-b>div>div.sticky.top-0.w-full.bg-layer-1.dark\:bg-dark-layer-1 {
+    background-color: #2c323b;
+}
+
+#qd-content>div.h-full.flex-col.ssg__qd-splitter-primary-w>div>div.min-h-0.flex-grow>div>div.flex.h-full.w-full.overflow-y-auto.rounded-b>div>div>div>div {
+    background-color: #22272e;
+}

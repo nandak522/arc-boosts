@@ -1,0 +1,6 @@
+#VS Code cruft
+.vscode
+.code-workspace
+
+# Mac cruft
+.DS_Store
