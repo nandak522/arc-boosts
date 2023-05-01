@@ -1,8 +1,17 @@
 /**
  * Boost Source: https://arcboosts.com/boosts/127/github-dark-dimmed-theme-for-leetcode-problem-page
  */
-nav>div {
+
+nav.bg-layer-1.dark\:bg-dark-layer-1 {
     background-color: #22272e;
+}
+
+.dark .dark\:bg-dark-layer-1 {
+    background-color: #2c323b;
+}
+
+.dark .dark\:odd\:bg-dark-layer-bg\:nth-child\(odd\) {
+    background-color: #2c323b;
 }
 
 #qd-content .bg-layer-1.dark\:bg-dark-layer-1 {
